@@ -1,0 +1,29 @@
+{
+	"name": "RPHK",
+    "short_name": "RP",
+    "start_url": "https://chukus.myweb.cs.uwindsor.ca/index.html",
+    "display": "standalone",
+    "theme_color": "#212529",
+    "background_color": "#212529",
+    "description": "An App to moniter my Dad's health",
+    "icons": [
+    {
+      "src": "assets/favicons/400rp.png",
+      "type": "image/png",
+      "sizes": "400x400",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/favicons/192rp.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/favicons/rp.png",
+      "type": "image/png",
+      "sizes": "500x500",
+      "purpose": "any"
+    }
+  ]
+}
