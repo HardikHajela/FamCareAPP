@@ -2,7 +2,10 @@
 
 <html lang="en">
   <head>
-	
+	<!--title-->
+    	<title>Today</title>
+	<!--meta tags-->
+    
   </head>
   
 <body>
