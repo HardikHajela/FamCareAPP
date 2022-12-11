@@ -5,7 +5,15 @@
 	<!--title-->
     	<title>Today</title>
 	<!--meta tags-->
-    
+    	<meta charset="UTF-8">
+    	<meta name="author" content="Hardik Hajela">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!--Favicons-->
+	<link href="assets/favicons/rp.png" rel="icon">
+	<link href="assets/favicons/apple.jpg" rel="apple-touch-icon">
+	
+	
   </head>
   
 <body>
