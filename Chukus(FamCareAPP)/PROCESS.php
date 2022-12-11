@@ -1,5 +1,5 @@
 <?php
-	$conn = new mysqli("localhost", "hajela_chukus", "chukusroot", "hajela_chukus") or die(mysqli_error($mysqli));
+	$conn = new mysqli("", "", "", "") or die(mysqli_error($mysqli));
 	
 	if (isset($_POST['submit'])){
 	  $sleep = $_POST["sleep"];
