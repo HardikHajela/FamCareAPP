@@ -14,4 +14,12 @@ It has a Home page, using features like BootStrap and Typed.js by [@mattboldt](h
 The "Today" page is is a basic Webform under which questions are asked about the Day! <br />
 It's based on 5 Parameters: Routine, Exercise, Diet, Medications and Stress. <br />
 
-Once filled, 
+Once filled, it does checks for the required fields and sends all the information to PHP, which in turn saves it in the MariaDB(MySQL) Database. <br />
+
+In the Achievements section, Every entry from everyday is analyzed and given a "Score"!. In a tabular form, all the entries are represented via color, since dark the theme is Dark, the lighter, the better! This display's motivation came from the way GitHub represent's commits on someone's profile! <br />
+
+Lastly, in the sort section, the achievements can be viewed and sorted as per the parameters entered for the day!
+
+This application is a PWA and was made solely by me in a Span of 3 days. If there's anything regarding to the App or the code you'd like to convey, I'm always open to Question, Concerns and Comments. Any Input'll be appriciated! <br />
+
+Thank you! Have a Good one! :)
