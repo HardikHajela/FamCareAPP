@@ -66,7 +66,7 @@
       	<div id="tablediv">
     		<table id="grid">
           		<?php
- 				$conn = new mysqli("localhost", "hajela_chukus", "chukusroot", "hajela_chukus") or die(mysqli_error($mysqli));
+ 				$conn = new mysqli("", "", "", "") or die(mysqli_error($mysqli));
   				$sql = "select score from chukus_record;";
   				$result = $conn->query($sql);
                 $arr=[];
