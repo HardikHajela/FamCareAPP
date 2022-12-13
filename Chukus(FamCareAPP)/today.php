@@ -96,7 +96,7 @@
 		<br>
 		<p id="caretext">RS Papa, Hope you had a great day! Let's ask you some Questions!</p><br>
 		
-		<form action="PROCESS.php" method=POST oninput='pwd.setCustomValidity(pwd.value !=  ? "Please enter the password again." : "")'>
+		<form action="PROCESS.php" method=POST oninput='pwd.setCustomValidity(pwd.value != "" ? "Please enter the password again." : "")'>
 			<p id="ptoday">Routine:</p>
 			<div class="col-md-4">
 				<label for="sleep" class="form-label">So Papa, how many hours of sleep did you have last night?</label>
@@ -228,7 +228,6 @@
         </div>
     </div>
 	</div> 
-
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 </body>
 </html>
