@@ -42,29 +42,12 @@
                             <i class="fs-1 bi-house"></i><span class="ms-1 d-none d-sm-inline" id="textsizenav"> Home</span>
                         </a>
                     </li>
-                    <!--<li>
-                        <a href="#" data-bs-toggle="collapse" class="nav-link px-sm-0 px-2">
-                            <i class="fs-5 bi-speedometer2"></i><span class="ms-1 d-none d-sm-inline">Dashboard</span> </a>
-                    </li>-->
                     
-					<li>
+		    <li>
                         <a href="today.php" class="nav-link px-sm-0 px-4">
                             <i class="fs-1 bi-calendar2-plus"></i><span class="ms-1 d-none d-sm-inline" id="textsizenav"> Today</span> </a>
                     </li>
-                    <!--<li class="dropdown">
-					<a href="#" class="nav-link dropdown-toggle px-sm-0 px-2" id="dropdown" data-bs-toggle="dropdown" aria-expanded="false">
-                            <i class="fs-5 bi-bootstrap"></i><span class="ms-1 d-none d-sm-inline">Bootstrap</span>
-                        </a>
-                        <ul class="dropdown-menu dropdown-menu-dark text-small shadow" aria-labelledby="dropdown">
-                            <li><a class="dropdown-item" href="#">New project...</a></li>
-                            <li><a class="dropdown-item" href="#">Settings</a></li>
-                            <li><a class="dropdown-item" href="#">Profile</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
-                            <li><a class="dropdown-item" href="#">Sign out</a></li>
-                        </ul>
-                    </li>-->
+                    
                     <li>
                         <a href="ach.php" class="nav-link px-sm-0 px-4">
                             <i class="fs-1 bi-grid"></i><span class="ms-1 d-none d-sm-inline" id="textsizenav">Achievements</span></a>
@@ -74,21 +57,6 @@
                             <i class="fs-1 bi-binoculars-fill"></i><span class="ms-1 d-none d-sm-inline" id="textsizenav"> Sort</span></a>
                     </li>
                 </ul>
-                <!--<div class="dropdown py-sm-4 mt-sm-auto ms-auto ms-sm-0 flex-shrink-1">
-                    <a href="#" class="d-flex align-items-center text-white text-decoration-none dropdown-toggle" id="dropdownUser1" data-bs-toggle="dropdown" aria-expanded="false">
-                        <img src="https://github.com/mdo.png" alt="hugenerd" width="28" height="28" class="rounded-circle">
-                        <span class="d-none d-sm-inline mx-1">Joe</span>
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-dark text-small shadow" aria-labelledby="dropdownUser1">
-                        <li><a class="dropdown-item" href="#">New project...</a></li>
-                        <li><a class="dropdown-item" href="#">Settings</a></li>
-                        <li><a class="dropdown-item" href="#">Profile</a></li>
-                        <li>
-                            <hr class="dropdown-divider">
-                        </li>
-                        <li><a class="dropdown-item" href="#">Sign out</a></li>
-                    </ul>
-                </div>-->
             </div>
         </div>
         <div class="col d-flex flex-column h-100">
@@ -223,9 +191,6 @@
     <hr>
               
             </main>
-            <!--<footer class="row bg-light py-4 mt-auto">
-                <div class="col"> Bottom footer content here... </div>
-            </footer>-->
         </div>
     </div>
 	</div> 
