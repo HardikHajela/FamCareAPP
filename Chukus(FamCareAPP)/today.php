@@ -6,6 +6,9 @@
     	<title>Today</title>
 	  
 	
+	
+	<!--Google Fonts-->
+	<link href='https://fonts.googleapis.com/css?family=EB Garamond|Trirong' rel='stylesheet'>	
   </head>
   
 <body>
