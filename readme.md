@@ -20,6 +20,6 @@ In the Achievements section, Every entry from everyday is analyzed and given a "
 
 Lastly, in the sort section, the achievements can be viewed and sorted as per the parameters entered for the day!
 
-This application is a PWA and was made solely by me in a Span of 3 days. If there's anything regarding to the App or the code you'd like to convey, I'm always open to Question, Concerns and Comments. Any Input'll be appriciated! <br />
+This application is a Prograssive Web App and was made solely by me in a Span of 3 days. If there's anything regarding to the App or the code you'd like to convey, I'm always open to Question, Concerns and Comments. Any Input'll be appriciated! <br />
 
 Thank you! Have a Good one! :)
