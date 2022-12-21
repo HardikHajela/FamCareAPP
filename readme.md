@@ -11,10 +11,10 @@ It has a Home page, using features like BootStrap and Typed.js by [@mattboldt](h
 <img src="https://github.com/HardikHajela/FamCareAPP/blob/main/readmeicons/ach.png" alt="Achievements" height="60"/> 
 <img src="https://github.com/HardikHajela/FamCareAPP/blob/main/readmeicons/sort.png" alt="sort" height="60"/> <br />
 
-The "Today" page is a basic Webform under which questions are asked about the Day! <br />
+The "Today" page is a basic Webform in which, a couple questions are asked about the Day! <br />
 It's based on 5 Parameters: Routine, Exercise, Diet, Medications and Stress. <br />
 
-Once filled, it does checks for the required fields and sends all the information to PHP, which in turn saves it in the MariaDB(MySQL) Database. <br />
+Once filled, it does checks for the required fields and once validated, sends all the information to PHP, which in turn saves it in the MariaDB(MySQL) Database. <br />
 
 In the Achievements section, Every entry from everyday is analyzed and given a "Score"!. In a tabular form, all the entries are represented via color, since dark the theme is Dark, the lighter, the better! This display's motivation came from the way GitHub represent's commits on someone's profile! <br />
 
