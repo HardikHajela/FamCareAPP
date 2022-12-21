@@ -14,9 +14,9 @@ It has a Home page, using features like BootStrap and Typed.js by [@mattboldt](h
 The "Today" page is a basic Webform in which, a couple questions are asked about the Day! <br />
 It's based on 5 Parameters: Routine, Exercise, Diet, Medications and Stress. <br />
 
-Once filled, it does checks for the required fields and once validated, sends all the information to a PHP file, which then saves the entered in the MariaDB(MySQL) Database. <br />
+Once filled, it does checks for the required fields and once validated, sends all the information to a PHP file, which then saves the entered information in the MariaDB(MySQL) Database. <br />
 
-In the Achievements section, Every entry from everyday is analyzed and given a "Score"!. In a tabular form, all the entries are represented via color, since dark the theme is Dark, the lighter, the better! This display's motivation came from the way GitHub represent's commits on someone's profile! <br />
+Every entry from earlier is analyzed and after some calculations, is  a "Score"!. In the Achievements section,  In a tabular form, all the entries are represented via color, since dark the theme is Dark, the lighter, the better! This display's motivation came from the way GitHub represent's commits on someone's profile! <br />
 
 Lastly, in the sort section, the achievements can be viewed and sorted as per the parameters entered for the day!
 
