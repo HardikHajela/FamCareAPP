@@ -11,7 +11,7 @@ It has a Home page, using features like BootStrap and Typed.js by [@mattboldt](h
 <img src="https://github.com/HardikHajela/FamCareAPP/blob/main/readmeicons/ach.png" alt="Achievements" height="60"/> 
 <img src="https://github.com/HardikHajela/FamCareAPP/blob/main/readmeicons/sort.png" alt="sort" height="60"/> <br />
 
-The "Today" page is is a basic Webform under which questions are asked about the Day! <br />
+The "Today" page is a basic Webform under which questions are asked about the Day! <br />
 It's based on 5 Parameters: Routine, Exercise, Diet, Medications and Stress. <br />
 
 Once filled, it does checks for the required fields and sends all the information to PHP, which in turn saves it in the MariaDB(MySQL) Database. <br />
