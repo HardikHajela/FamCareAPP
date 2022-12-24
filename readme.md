@@ -18,7 +18,7 @@ Once filled, it does checks for the required fields and once validated, sends al
 
 Every entry from earlier is analyzed and after some calculations, is then assigned a "Score"!. In the Achievements section, all the entries are represented via color in a tabular form! Since the theme is Dark, the design is lighter the representation of score, the better! This display's motivation came from the way GitHub represent's commits on someone's profile! <br />
 
-Lastly, in the sort section, the achievements can be viewed and sorted as per the parameters entered for the day!
+Lastly, in the Sort section, the achievements can be viewed and sorted as per the parameters entered for the day!
 
 This application is a Prograssive Web App and was made solely by me in a Span of 3 days. If there's anything regarding to the App or the code you'd like to convey, I'm always open to Questions, Concerns and Comments. Any Input'll be appriciated! :D <br />
 
