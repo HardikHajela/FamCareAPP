@@ -3,7 +3,7 @@
 Dear Visitor,<br />
 Greetings. During the COVID-19 Pandemic, my Dad's health was adversely affected due to COVID, amongst other reasons that elevated. <br />
 
-Living in a different continent from my parents, there were alot of variable out of my control. So, in that moment, I did what I do best: find a solution through Software Engineering! I took all the software engineering in me and made this PWA in a span of 3 days. It has a couple of featues with which I can track my parent's heath.<br/>
+Living in a different continent from my parents, there were alot of variable out of my control. So, in that moment, I did what I do best: find a solution through Software Engineering! So, I took all the software engineering in me and made this PWA in a span of 3 days. It has a couple of featues with which I can track my parent's heath.<br/>
 
 It has a Home page, using features like BootStrap and Typed.js by [@mattboldt](https://github.com/mattboldt/typed.js). In a Navber of the Home page, there are 4 options:&nbsp;&nbsp;<br />
 <img src="https://github.com/HardikHajela/FamCareAPP/blob/main/readmeicons/home.png" alt="home" height = "60"/> 
@@ -20,6 +20,6 @@ Every entry from earlier is analyzed and after some calculations, is then assign
 
 Lastly, in the Sort section, the achievements can be viewed and sorted as per the parameters entered for the day!
 
-This application is a Prograssive Web App and was made solely by me in a Span of 3 days. If there's anything regarding to the App or the code you'd like to convey, I'm always open to Questions, Concerns and Comments. Any Input'll be appriciated! :D <br />
+This application is a Prograssive Web App and was made solely by me in 3 days. If there's anything regarding to the App or the code you'd like to convey, I'm always open to Questions, Concerns and Comments. Any Input'll be appriciated! :D <br />
 
 Thank you! Have a Good one! :)
