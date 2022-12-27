@@ -22,4 +22,4 @@ Lastly, in the Sort section, the achievements can be viewed and sorted as per th
 
 This application is a Prograssive Web App and was made solely by me in a Span of 3 days. If there's anything regarding to the App or the code you'd like to convey, I'm always open to Questions, Concerns and Comments. Any Input'll be appriciated! :D <br />
 
-Thank you! Have a Good one! 
+Thank you! Have a Good one! :)
