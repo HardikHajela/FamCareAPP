@@ -1,6 +1,6 @@
 //function testPlease(){
 	document.getElementById("tester").innerHTML = "Tested";
-}
+//}
 
 window.addEventListener('load', () =>{
 	registerSW();
