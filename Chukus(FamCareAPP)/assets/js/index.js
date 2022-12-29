@@ -1,4 +1,4 @@
-function testPlease(){
+//function testPlease(){
 	document.getElementById("tester").innerHTML = "Tested";
 }
 
