@@ -1,3 +1,5 @@
+//This is the the Service Worker File 
+
 const cacheName = 'swc1';
 
 const staticAssets = [
