@@ -1,4 +1,4 @@
-//This is the the Service Worker File 
+//This is the the Service Worker File, essential to making a PWA!
 
 const cacheName = 'swc1';
 
